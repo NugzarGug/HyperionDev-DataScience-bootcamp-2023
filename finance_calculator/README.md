@@ -27,6 +27,9 @@ Follow Prompts to enter data for calculations.
 License
 MIT License
 
-Contact
-Email: nugzargug@gmai.com
-GitHub: NugzarGug
+
+## Contact
+
+- **Email**: nugzargug@gmail.com
+- **GitHub**: [NugzarGug](https://github.com/NugzarGug)
+
