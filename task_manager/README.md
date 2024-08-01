@@ -22,37 +22,41 @@ This Python project provides a command-line interface for managing tasks. The sc
 1. **Clone the Repository**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/NugzarGug/HyperionDev-DataScience-bootcamp-2023.git
+Navigate to the Directory
+
 Run the Script
 
 bash
 Copy code
-python <script-name>.py
-Login
+python task_manager.py
 
-Username: admin
-Password: password
-Other users need to register first.
-Menu Options
+## Login
+- **Username:**  admin
+- **Password:** password
+- *Other users need to register first.*
 
-r: Register a new user.
-a: Add a new task.
-va: View all tasks.
-vm: View tasks assigned to you.
-ds: Display statistics (admin only).
-gr: Generate and view reports (admin only).
-e: Exit the program.
-Script Overview
+## Menu Options
+
+- *r:* Register a new user.
+- *a:* Add a new task.
+- *va:* View all tasks.
+- *vm:* View tasks assigned to you.
+- *ds:* Display statistics (admin only).
+- *gr:* Generate and view reports (admin only).
+- *e:* Exit the program.
+## Script Overview
 File Management: Uses tasks.txt for storing tasks and user.txt for user credentials.
 Functions:
-reg_user(): Registers a new user.
-add_task(): Adds a new task.
-view_all(): Displays all tasks.
-view_mine(): Displays tasks assigned to the logged-in user.
-gen_stat(): Generates task and user statistics.
-disp_stat(): Displays statistics for admins.
-programm_exit(): Saves changes and exits the program.
-Contact
-Email: your-email@example.com
-GitHub: your-github-profile
+- *reg_user():* Registers a new user.
+- *add_task():* Adds a new task.
+- *view_all():* Displays all tasks.
+- *view_mine():* Displays tasks assigned to the logged-in user.
+- *gen_stat():* Generates task and user statistics.
+- *disp_stat():* Displays statistics for admins.
+- *programm_exit():* Saves changes and exits the program.
+
+## Contact
+
+- **Email**: nugzargug@gmail.com
+- **GitHub**: [NugzarGug](https://github.com/NugzarGug)
